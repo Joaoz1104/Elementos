@@ -1,0 +1,41 @@
+.container{
+    height: 450px;
+    background-color: powderblue;
+    position: relative;
+    width: 100%;
+}
+
+.one{
+    height:150px;
+    width: 150px;
+    background-color: darkmagenta;
+    float: left;
+}
+
+.two{
+    height: 150px;
+    width: 150px;
+    background-color: gold;
+    float: right;
+}
+.three{
+    height: 150px;
+    width: 150px;
+    background-color: greenyellow;
+    margin: 0 auto;
+    clear:both;
+}
+
+.four{
+    height: 150px;
+    width: 150px;
+    background-color: maroon;
+    float: left;
+}
+
+.five{
+    height: 150px;
+    width: 150px;
+    background-color: orangered;
+    float: right;
+}
